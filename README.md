@@ -113,7 +113,22 @@ As **Founder and Chief Technology Officer** of OneAdmissions, I've built and dep
 - **Architecture**: Microservices approach with AI service abstraction
 - **Innovation**: Hybrid local/cloud AI processing with privacy controls
 
-### **5. 📝 OneAdmissions AI Notes**
+### **5. 🌐 Concepts by Coleman Portfolio**
+*Enterprise-Grade Next.js Portfolio Website*
+- **Repository**: [concepts-by-coleman](https://github.com/OneC0de/concepts-by-coleman)
+- **Live Site**: [conceptsbycoleman.com](https://conceptsbycoleman.com)
+- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS v4, Vercel deployment
+- **Features**: 
+  - Responsive design with mobile-first approach
+  - Custom component architecture (ProjectCard, config-driven content)
+  - WCAG accessibility compliance and SEO optimization
+  - Embedded integrations (Zcal booking, Tally contact forms)
+  - Performance optimized (Lighthouse 95+ scores)
+- **Development Time**: Built and deployed in 1 day
+- **Innovation**: Modern React patterns with TypeScript and cutting-edge CSS framework
+- **Architecture**: Component-based design with centralized configuration
+
+### **6. 📝 OneAdmissions AI Notes**
 *Intelligent Note-Taking and Analysis*
 - **Repository**: [oneadmissions-ai-notes](https://github.com/OneC0de/oneadmissions-ai-notes)
 - **Tech Stack**: Python, AI integration, document processing
@@ -152,7 +167,7 @@ As **Founder and Chief Technology Officer** of OneAdmissions, I've built and dep
 
 ## 🎯 Technical Achievements
 
-- **🏗️ Built 5+ production AI applications** serving real users in education sector
+- **🏗️ Built 6+ production applications** (AI systems + full-stack web apps) serving real users
 - **🤖 Deployed enterprise-grade AI infrastructure** processing sensitive business data
 - **📊 Designed complex database architectures** with 20+ field relationships
 - **🔧 Mastered full development lifecycle** from conception to deployment
