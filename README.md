@@ -240,9 +240,9 @@ I believe in:
 ## 🔗 Connect & Collaborate
 
 **GitHub**: [@OneC0de](https://github.com/OneC0de)  
-**OneAdmissions**: [Company Website]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Professional Email]
+**OneAdmissions**: oneadmissions.com 
+**LinkedIn**: https://www.linkedin.com/in/donnascaffidi  
+**Email**: donna@oneadmissions.com
 
 ---
 
